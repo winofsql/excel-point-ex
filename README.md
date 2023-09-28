@@ -7,4 +7,4 @@
   ![image](https://github.com/winofsql/excel-point-ex/assets/1501327/d0939bec-eea7-4841-8636-0cbd0750bed3)
 
 - ### CTRL + E で部分参照してオートフィル
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/uvnT6eKgzro?si=t7rfMN8kyKBQwuas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+  [YouTube](https://youtu.be/uvnT6eKgzro?feature=shared)
