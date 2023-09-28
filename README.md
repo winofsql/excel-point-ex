@@ -7,4 +7,4 @@
   ![image](https://github.com/winofsql/excel-point-ex/assets/1501327/d0939bec-eea7-4841-8636-0cbd0750bed3)
 
 - ### CTRL + E で部分参照してオートフィル
-   
+  ![movie][excel-ctrl-e.mp4]   
